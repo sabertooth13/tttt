@@ -1,0 +1,13 @@
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\bin\Debug\StarWarApi.exe.config
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\bin\Debug\StarWarApi.exe
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\bin\Debug\StarWarApi.pdb
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.csprojResolveAssemblyReference.cache
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.Form1.resources
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.Properties.Resources.resources
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.csproj.GenerateResource.cache
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.csproj.CoreCompileInputs.cache
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.exe
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.pdb
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\bin\Debug\Newtonsoft.Json.dll
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\bin\Debug\Newtonsoft.Json.xml
+c:\users\darkknight!!\source\repos\StarWarApi\StarWarApi\obj\Debug\StarWarApi.csproj.CopyComplete
